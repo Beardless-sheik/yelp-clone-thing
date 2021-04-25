@@ -1,0 +1,18 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "description": "Yelp clone server api",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./index.js"
+  },
+  "author": "Alick",
+  "license": "ISC"
+}
